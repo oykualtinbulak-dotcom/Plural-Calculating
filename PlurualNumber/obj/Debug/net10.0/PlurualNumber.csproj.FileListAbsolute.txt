@@ -1,0 +1,15 @@
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\bin\Debug\net10.0\PlurualNumber.exe
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\bin\Debug\net10.0\PlurualNumber.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\bin\Debug\net10.0\PlurualNumber.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\bin\Debug\net10.0\PlurualNumber.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\bin\Debug\net10.0\PlurualNumber.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\PlurualNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\PlurualNumber.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\PlurualNumber.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\PlurualNumber.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\PlurualNumber.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\refint\PlurualNumber.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\PlurualNumber.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\PlurualNumber.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\ref\PlurualNumber.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\PlurualNumber\obj\Debug\net10.0\PlurualN.9C03B240.Up2Date
